@@ -9,8 +9,28 @@
 ````
 
 
+<h2> ✨ 안녕하세요, 개발자 김지현 입니다 ✨ </h2>
+
+<br>
+
+저만의 속도로 꾸준히 걸어가며 새로운 도전을 즐기고 있어요 !
+
+
+개발 과정에서 얻은 통찰과 배운 점들을 [블로그](https://velog.io/@devussy/posts)에 기록하고 있습니다 🖋️
+
+
+<br>
+발자취를 남기며 함께 성장해나가는 개발자가 되겠습니다 🙌
+
 <h3>🚀 My Skills</h3>
 
+
+                        ..-^~~~^-.._
+                     .~            ~.\
+                     |   0         0  \
+                     \               /
+                      \,.,.,.,.,.,.,.`
+                      (_?_)   (\_/)`
+                       `-'    `-'
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,py,aws,docker,nginx)](https://skillicons.dev)
-
-
